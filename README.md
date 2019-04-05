@@ -1,13 +1,13 @@
-## Description 
+# Description 
 I'm created this website with Johnas Schmedtmann course, it's about hotel presentation. We can find on this infromation about single hotel and reviews from other guests.
 
-# Technologies 
+## Technologies 
 * HTML5
 * SCSS (BEM)
 * npm & npm scripts 
 * flexbox 
 
-# What I'm learned? 
+## What I'm learned? 
 * This project was mostly about flexbox and his properties. 
 
 ## Live 
