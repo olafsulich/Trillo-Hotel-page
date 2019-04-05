@@ -8,7 +8,7 @@ I'm created this website with Johnas Schmedtmann course, it's about hotel presen
 * flexbox 
 
 # What I'm learned? 
-*This project was mostly about flexbox and his properties. 
+* This project was mostly about flexbox and his properties. 
 
 ## Live 
 https://trillo.netlify.com/
