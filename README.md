@@ -1,5 +1,5 @@
 # Description 
-I'm created this website with Johnas Schmedtmann course, it's about hotel presentation. We can find on this infromation about single hotel and reviews from other guests.
+I were created this website with Johnas Schmedtmann course, it's about hotel presentation. We can find informations about single hotel and reviews from other guests.
 
 ## Technologies 
 * HTML5
